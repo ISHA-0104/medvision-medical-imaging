@@ -1,0 +1,474 @@
+patient_id,organ,modality,pathological,filepath,shape,voxel_spacing,split
+S1,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eFLAIR_longTR_SPIR_20251222145828_402.nii.gz,"(448, 448, 27)","(0.513, 0.513, 6.0)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT1W_SE_20251222145828_1102.nii.gz,"(256, 256, 15)","(0.527, 0.527, 2.75)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT1W_SE_HST_CLEAR_20251222145828_1502.nii.gz,"(352, 352, 25)","(0.696, 0.696, 6.0)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT1W_TRA_20251222145828_1402.nii.gz,"(400, 400, 30)","(0.586, 0.586, 6.0)",val
+S1,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT2W_TSE_20251222145828_302.nii.gz,"(512, 512, 27)","(0.449, 0.449, 6.102)",val
+S1,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT2W_TSE_20251222145828_502.nii.gz,"(384, 384, 28)","(0.573, 0.573, 6.979)",val
+S1,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_eT2W_TSE_CLEAR_20251222145828_1002.nii.gz,"(336, 336, 15)","(0.402, 0.402, 2.75)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/2D MRI/S79030_T1W_TSE_Dyn_20251222145828_1301.nii.gz,"(256, 256, 10, 20)","(0.703, 0.703, 3.3, 0.788)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/3D MRI/S79030_sT1W_3D_TFE_20251222145828_601.nii.gz,"(120, 400, 400)","(1.3, 0.64, 0.64)",val
+S1,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S1/3D MRI/S79030_sT1W_3D_TFE_PRE_GD_20251222145828_901.nii.gz,"(256, 256, 150)","(1.0, 1.0, 1.1)",val
+S10,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S10/S82190_esT2W_FLAIR_20260323154127_402.nii.gz,"(256, 256, 27)","(0.898, 0.898, 6.0)",test
+S10,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S10/S82190_eT2W_TSE_20260323154127_302.nii.gz,"(256, 256, 27)","(0.898, 0.898, 6.0)",test
+S10,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S10/S82190_eT2W_TSE_20260323154127_502.nii.gz,"(256, 256, 32)","(0.898, 0.898, 6.0)",test
+S10,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S10/S82190_sT1W_3D_TFE_20260323154127_601.nii.gz,"(120, 400, 400)","(1.3, 0.64, 0.64)",test
+S10,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S10/S82190_VsT1W_TRA_20260323154127_603.nii.gz,"(1024, 1024, 24)","(0.25, 0.25, 5.664)",test
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eeT1W_SAG_20260302122507_702.nii.gz,"(384, 384, 25)","(0.599, 0.599, 6.0)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eeT1W_SAG_20260302122507_702a.nii.gz,"(384, 384, 25)","(0.599, 0.599, 6.0)",val
+S2,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eFLAIR_longTR_SPIR_20260302122507_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",val
+S2,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eFLAIR_longTR_SPIR_20260302122507_402a.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT1W_SE_CLEAR_20260302122507_602.nii.gz,"(256, 256, 24)","(0.84, 0.84, 6.417)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT1W_SE_CLEAR_20260302122507_602a.nii.gz,"(256, 256, 24)","(0.84, 0.84, 6.417)",val
+S2,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT2W_TSE_20260302122507_302.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",val
+S2,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT2W_TSE_20260302122507_302a.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",val
+S2,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT2W_TSE_20260302122507_502.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",val
+S2,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/2D MRI/S82010_eT2W_TSE_20260302122507_502a.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_eesT1W_3D_TRA_FS_GD_20260302122507_1202.nii.gz,"(384, 384, 155)","(0.625, 0.625, 1.1)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_eesT1W_3D_TRA_FS_GD_20260302122507_1202a.nii.gz,"(384, 384, 155)","(0.625, 0.625, 1.1)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_sT1W_3D_TFE_PRE_GD_20260302122507_1001.nii.gz,"(256, 256, 150)","(1.0, 1.0, 1.1)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_sT1W_3D_TFE_PRE_GD_20260302122507_1001a.nii.gz,"(256, 256, 150)","(1.0, 1.0, 1.1)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_VsT1W_3D_TRA_FS_GD_20260302122507_1203.nii.gz,"(1024, 1024, 33)","(0.234, 0.234, 5.0)",val
+S2,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S2/3D MRI/S82010_VsT1W_3D_TRA_FS_GD_20260302122507_1203a.nii.gz,"(1024, 1024, 33)","(0.234, 0.234, 5.0)",val
+S3,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eeT1W_SAG_20260302120556_802.nii.gz,"(384, 384, 25)","(0.599, 0.599, 6.0)",train
+S3,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eFLAIR_longTR_SPIR_20260302120556_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",train
+S3,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eT1W_SE_CLEAR_20260302120556_702.nii.gz,"(256, 256, 24)","(0.84, 0.84, 6.417)",train
+S3,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eT2W_TSE_20260302120556_302.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",train
+S3,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eT2W_TSE_20260302120556_502.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",train
+S3,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S3/2D MRI/S82011_eT2W_TSE_20260302120556_602.nii.gz,"(384, 384, 25)","(0.573, 0.573, 6.979)",train
+S4,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_eeT1W_SAG_20260202174648_702.nii.gz,"(384, 384, 25)","(0.599, 0.599, 6.0)",train
+S4,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_eFLAIR_longTR_SPIR_20260202174648_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",train
+S4,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_eT1W_SE_CLEAR_20260202174648_602.nii.gz,"(256, 256, 24)","(0.84, 0.84, 6.417)",train
+S4,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_eT2W_TSE_20260202174648_302.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",train
+S4,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_eT2W_TSE_20260202174648_502.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",train
+S4,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_FLAIR_longTR_SPIR_20260202174648_401.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",train
+S4,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_T1W_20260202174648_701.nii.gz,"(384, 384, 25)","(0.599, 0.599, 6.0)",train
+S4,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_T1W_SE_20260202174648_601.nii.gz,"(256, 256, 24)","(0.84, 0.84, 6.417)",train
+S4,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_T2W_TSE_20260202174648_301.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",train
+S4,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S4/2D MRI/S82012_T2W_TSE_20260202174648_501.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",train
+S5,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/2D MRI/S82020_eFLAIR_3mm_20260303115410_902.nii.gz,"(256, 256, 35)","(0.781, 0.781, 3.0)",val
+S5,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/2D MRI/S82020_eFLAIR_longTR_SPIR_20260303115410_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",val
+S5,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/2D MRI/S82020_eT2W_TSE_20260303115410_302.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.102)",val
+S5,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/2D MRI/S82020_eT2W_TSE_20260303115410_502.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",val
+S5,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/2D MRI/S82020_eT2W_TSE_20260303115410_802_real.nii.gz,"(448, 448, 24)","(0.424, 0.424, 4.261)",val
+S5,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S5/3D MRI/S82020_sT1W_3D_TFE_20260303115410_601.nii.gz,"(110, 400, 400)","(1.3, 0.64, 0.64)",val
+S6,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/2D MRI/S82030_eFLAIR_longTR_SPIR_20260304144341_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",val
+S6,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/2D MRI/S82030_eT1W_TRA_20260304144341_802.nii.gz,"(320, 320, 25)","(0.688, 0.688, 6.0)",val
+S6,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/2D MRI/S82030_eT2W_TSE_20260304144341_302.nii.gz,"(512, 512, 26)","(0.449, 0.449, 6.102)",val
+S6,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/2D MRI/S82030_eT2W_TSE_20260304144341_502.nii.gz,"(384, 384, 23)","(0.573, 0.573, 6.979)",val
+S6,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/3D MRI/S82030_eesT1W_3D_TRA_FS_GD_20260304144341_902.nii.gz,"(384, 384, 160)","(0.625, 0.625, 1.1)",val
+S6,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/3D MRI/S82030_sT1W_3D_TFE_20260304144341_601.nii.gz,"(110, 400, 400)","(1.3, 0.64, 0.64)",val
+S6,brain,T1c,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S6/3D MRI/S82030_VsT1W_3D_TRA_FS_POSTGD_20260304144341_905.nii.gz,"(1024, 1024, 27)","(0.234, 0.234, 6.0)",val
+S7,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_eFLAIR_longTR_SPIR_20260304165040_402.nii.gz,"(448, 448, 27)","(0.513, 0.513, 6.0)",test
+S7,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_eT1W_SE_HST_CLEAR_20260304165040_902.nii.gz,"(512, 512, 26)","(0.42, 0.42, 6.417)",test
+S7,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_eT2W_TSE_20260304165040_302.nii.gz,"(512, 512, 26)","(0.449, 0.449, 6.102)",test
+S7,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_eT2W_TSE_20260304165040_502.nii.gz,"(384, 384, 26)","(0.573, 0.573, 6.979)",test
+S7,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_eT2W_TSE_20260304165040_802_real.nii.gz,"(528, 528, 24)","(0.409, 0.409, 4.261)",test
+S7,brain,T1c,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_T1W_SE_FS_PRE_GADO_20260304165040_901.nii.gz,"(512, 512, 26)","(0.42, 0.42, 6.417)",test
+S7,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/2D MRI/S82031_VsT1W_TRA_20260304165040_603.nii.gz,"(1024, 1024, 24)","(0.25, 0.25, 5.664)",test
+S7,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/3D MRI/S82031_eesT1W_3D_TRA_FS_GD_20260304165040_1002.nii.gz,"(384, 384, 160)","(0.625, 0.625, 1.1)",test
+S7,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/3D MRI/S82031_sT1W_3D_TFE_20260304165040_601.nii.gz,"(120, 400, 400)","(1.3, 0.64, 0.64)",test
+S7,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S7/3D MRI/S82031_sT1W_3D_TRA_FS_GD_20260304165040_1001.nii.gz,"(384, 384, 160)","(0.625, 0.625, 1.1)",test
+S8,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S8/2D MRI/S82100_eFLAIR_longTR_SPIR_20260313093000_402.nii.gz,"(448, 448, 25)","(0.513, 0.513, 6.0)",test
+S8,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S8/2D MRI/S82100_eT2W_TSE_20260313093000_302.nii.gz,"(512, 512, 24)","(0.449, 0.449, 6.0)",test
+S8,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S8/2D MRI/S82100_eT2W_TSE_20260313093000_502.nii.gz,"(384, 384, 30)","(0.573, 0.573, 6.0)",test
+S8,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S8/3D MRI/S82100_sT1W_3D_TFE_20260313093000_701.nii.gz,"(112, 400, 400)","(1.3, 0.64, 0.64)",test
+S9,brain,FLAIR,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_esT2W_FLAIR_20260313095213_402.nii.gz,"(256, 256, 25)","(0.898, 0.898, 6.0)",train
+S9,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT1W_FFE_20260313095213_602.nii.gz,"(256, 256, 26)","(0.898, 0.898, 6.0)",train
+S9,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT1W_FFE_20260313095213_802.nii.gz,"(256, 256, 25)","(0.898, 0.898, 6.0)",train
+S9,brain,T1,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT1W_FFE_20260313095213_802_Eq_1.nii.gz,"(256, 256, 50)","(0.898, 0.898, 0.0)",train
+S9,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT2W_FFE_20260313095213_502.nii.gz,"(320, 320, 22)","(0.719, 0.719, 7.2)",train
+S9,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT2W_TSE_20260313095213_302.nii.gz,"(256, 256, 25)","(0.879, 0.879, 6.0)",train
+S9,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT2W_TSE_20260313095213_702.nii.gz,"(256, 256, 29)","(0.898, 0.898, 6.0)",train
+S9,brain,T2,False,Brain_JN_1/Brain DATASETS/Normal brain Datasets/S9/2D MRI/S82101_eT2W_TSE_20260313095213_902_real.nii.gz,"(448, 448, 24)","(0.424, 0.424, 4.261)",train
+BRP1,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP1/007_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP1,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP1/007_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP1,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP1/007_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP1,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP1/t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP10,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP10/048_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP10,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP10/048_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP10,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP10/048_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP10,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP10/048_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP2,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP2/009_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP2,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP2/09_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP2,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP2/t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP2,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP2/t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP3,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP3/024_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP3,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP3/024_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP3,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP3/024_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP3,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP3/024__t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP4,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP4/022_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP4,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP4/022_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP4,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP4/022_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP4,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP4/022_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP5,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP5/023_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP5,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP5/023_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP5,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP5/023_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP5,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP5/023_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP6,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP6/035_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP6,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP6/035_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP6,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP6/035_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP6,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP6/035_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP7,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP7/034_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP7,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP7/034_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP7,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP7/034_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP7,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP7/034_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",test
+BRP8,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP8/053_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP8,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP8/053_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP8,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP8/053_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP8,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP8/053_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP9,brain,FLAIR,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP9/045_flair.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP9,brain,T1,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP9/045_t1.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP9,brain,T1c,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP9/045_t1ce.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+BRP9,brain,T2,True,Brain_JN_1/Brain DATASETS/Pathological brain MRI Datasets/BRP9/045_t2.nii,"(240, 240, 155)","(1.0, 1.0, 1.0)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00001.nii.gz,"(240, 240, 1)","(0.714, 0.714, 4.0)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00002.nii.gz,"(240, 240, 4)","(0.714, 0.714, 4.4)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00006.nii.gz,"(240, 240, 16)","(0.714, 0.714, 4.4)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00022.nii.gz,"(240, 240, 4)","(0.714, 0.714, 4.4)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00026.nii.gz,"(240, 240, 3)","(0.714, 0.714, 4.4)",train
+SP1,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T1 MRI/S82010_eT1W_TSE_CLEAR_20260302153428_802_i00029.nii.gz,"(240, 240, 3)","(0.714, 0.714, 4.4)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_CLEAR_20260302153428_402.nii.gz,"(800, 800, 14)","(0.437, 0.437, 3.85)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00001.nii.gz,"(320, 320, 1)","(0.535, 0.535, 4.0)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00002.nii.gz,"(320, 320, 3)","(0.535, 0.535, 4.4)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00005.nii.gz,"(320, 320, 16)","(0.535, 0.535, 4.4)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00021.nii.gz,"(320, 320, 4)","(0.535, 0.535, 4.4)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00025.nii.gz,"(320, 320, 3)","(0.535, 0.535, 4.4)",train
+SP1,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP1/2D T2 MRI/S82010_eT2W_TSE_DRIVE_HR_20260302153428_702_i00028.nii.gz,"(320, 320, 3)","(0.535, 0.535, 4.4)",train
+SP10,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eSTIR_longTE_20260310120011_802.nii.gz,"(448, 448, 15)","(0.534, 0.534, 5.0)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT1W_TSE_CLEAR_20260310120011_1002.nii.gz,"(336, 336, 15)","(0.705, 0.705, 5.0)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT1W_TSE_CLEAR_20260310120011_702_i00001.nii.gz,"(224, 224, 30)","(0.714, 0.714, 4.6)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT1W_TSE_CLEAR_20260310120011_702_i00031.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT1W_TSE_CLEAR_20260310120011_702_i00035.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT1W_TSE_CLEAR_20260310120011_702_i00039.nii.gz,"(224, 224, 10)","(0.714, 0.714, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_CLEAR_20260310120011_402.nii.gz,"(880, 880, 14)","(0.421, 0.421, 3.85)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_DRIVE_HR_20260310120011_602_i00001.nii.gz,"(288, 288, 30)","(0.556, 0.556, 4.6)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_DRIVE_HR_20260310120011_602_i00001_Eq_1.nii.gz,"(288, 288, 60)","(0.556, 0.556, 0.0)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_DRIVE_HR_20260310120011_602_i00031.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_DRIVE_HR_20260310120011_602_i00035.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_DRIVE_HR_20260310120011_602_i00039.nii.gz,"(288, 288, 10)","(0.556, 0.556, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_eT2W_TSE_SAG_20260310120011_902.nii.gz,"(528, 528, 15)","(0.451, 0.451, 5.0)",train
+SP10,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_STIR_longTE_20260310120011_801.nii.gz,"(448, 448, 15)","(0.534, 0.534, 5.0)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_20260310120011_1001.nii.gz,"(336, 336, 15)","(0.705, 0.705, 5.0)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_20260310120011_701_i00001.nii.gz,"(224, 224, 30)","(0.714, 0.714, 4.6)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_20260310120011_701_i00031.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_20260310120011_701_i00035.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_20260310120011_701_i00039.nii.gz,"(224, 224, 10)","(0.714, 0.714, 4.4)",train
+SP10,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T1W_TSE_sag_20260310120011_501.nii.gz,"(512, 512, 14)","(0.738, 0.738, 3.85)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T2W_TSE_20260310120011_401.nii.gz,"(880, 880, 14)","(0.421, 0.421, 3.85)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T2W_TSE_DRIVE_HR_20260310120011_601_i00001.nii.gz,"(288, 288, 30)","(0.556, 0.556, 4.6)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T2W_TSE_DRIVE_HR_20260310120011_601_i00031.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T2W_TSE_DRIVE_HR_20260310120011_601_i00035.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP10,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP10/S82080_T2W_TSE_DRIVE_HR_20260310120011_601_i00039.nii.gz,"(288, 288, 10)","(0.556, 0.556, 4.4)",train
+SP2,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eeSTIR_TSE_COR_20260303133117_302.nii.gz,"(672, 672, 15)","(0.586, 0.586, 5.642)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00001.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00004.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00008.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00012.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00015.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT1W_TSE_CLEAR_20260303133117_702_i00018.nii.gz,"(224, 224, 2)","(0.714, 0.714, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_CLEAR_20260303133117_402.nii.gz,"(800, 800, 14)","(0.437, 0.437, 3.85)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00001.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00004.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00008.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00012.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00015.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP2,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_eT2W_TSE_DRIVE_HR_20260303133117_602_i00018.nii.gz,"(288, 288, 2)","(0.556, 0.556, 4.4)",train
+SP2,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP2/S82020_T1W_TSE_sag_20260303133117_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",train
+SP3,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eeT2_SPAIR_cor_20260303142846_502.nii.gz,"(432, 432, 17)","(0.694, 0.694, 5.0)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_20260303142846_403.nii.gz,"(576, 576, 15)","(0.643, 0.643, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_20260303142846_404.nii.gz,"(528, 528, 15)","(0.703, 0.703, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00001.nii.gz,"(256, 256, 2)","(0.781, 0.781, 13.2)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00007.nii.gz,"(256, 256, 1)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00010.nii.gz,"(256, 256, 1)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00013.nii.gz,"(256, 256, 1)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00016.nii.gz,"(256, 256, 1)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00019.nii.gz,"(256, 256, 2)","(0.781, 0.781, 13.2)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_702_i00025.nii.gz,"(256, 256, 1)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00001.nii.gz,"(256, 256, 5)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00006.nii.gz,"(256, 256, 3)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00009.nii.gz,"(256, 256, 3)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00012.nii.gz,"(256, 256, 3)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00015.nii.gz,"(256, 256, 3)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00018.nii.gz,"(256, 256, 5)","(0.781, 0.781, 4.4)",train
+SP3,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT1W_TSE_CLEAR_20260303142846_802_i00023.nii.gz,"(256, 256, 3)","(0.781, 0.781, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_20260303142846_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_20260303142846_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00001.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00006.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00011.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00016.nii.gz,"(336, 336, 4)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00020.nii.gz,"(336, 336, 4)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00024.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00029.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.763)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_602_i00034.nii.gz,"(336, 336, 3)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00001.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00006.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00011.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00016.nii.gz,"(336, 336, 4)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00020.nii.gz,"(336, 336, 4)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00024.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP3,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP3/S82021_eT2W_TSE_DRIVE_HR_20260303142846_902_i00029.nii.gz,"(336, 336, 3)","(0.595, 0.595, 4.763)",train
+SP4,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_eSTIR_longTE_20260303150746_502.nii.gz,"(320, 320, 12)","(0.845, 0.845, 4.8)",train
+SP4,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_eT1W_TSE_20260303150746_403.nii.gz,"(576, 576, 15)","(0.643, 0.643, 4.4)",train
+SP4,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_eT1W_TSE_20260303150746_404.nii.gz,"(528, 528, 15)","(0.703, 0.703, 4.4)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_eT2W_TSE_20260303150746_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_eT2W_TSE_20260303150746_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP4,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_MobiView_eT1W_TSE_20260303150746_405.nii.gz,"(577, 1092, 15)","(0.643, 0.643, 4.399)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_SC_MobiView_eT2W_TSE_20260303150746_305.nii.gz,"(512, 970, 15)","(0.726, 0.726, 4.399)",train
+SP4,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_STIR_longTE_20260303150746_501.nii.gz,"(320, 320, 12)","(0.845, 0.845, 4.8)",train
+SP4,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T1W_TSE_20260303150746_401.nii.gz,"(576, 576, 15)","(0.643, 0.643, 4.4)",train
+SP4,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T1W_TSE_20260303150746_402.nii.gz,"(528, 528, 15)","(0.703, 0.703, 4.4)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00001.nii.gz,"(320, 320, 2)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00003.nii.gz,"(320, 320, 6)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00009.nii.gz,"(320, 320, 3)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00012.nii.gz,"(320, 320, 3)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00015.nii.gz,"(320, 320, 2)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_100mm_20260303150746_601_i00017.nii.gz,"(320, 320, 3)","(0.406, 0.406, 3.3)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_20260303150746_301.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP4,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP4/S82022_T2W_TSE_20260303150746_302.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP5,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP5/S82023_eSTIR_longTE_20260303153859_502.nii.gz,"(320, 320, 12)","(0.845, 0.845, 4.8)",train
+SP5,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP5/S82023_eT1W_TSE_20260303153859_403.nii.gz,"(576, 576, 15)","(0.643, 0.643, 4.4)",train
+SP5,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP5/S82023_eT1W_TSE_20260303153859_404.nii.gz,"(528, 528, 15)","(0.703, 0.703, 4.4)",train
+SP5,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP5/S82023_eT2W_TSE_20260303153859_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP5,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP5/S82023_eT2W_TSE_20260303153859_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP6,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eeSTIR_TSE_COR_20260303134925_402.nii.gz,"(672, 672, 15)","(0.586, 0.586, 5.641)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00001.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00006.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00011.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00015.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00018.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP6,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT1W_TSE_CLEAR_20260303134925_702_i00021.nii.gz,"(224, 224, 2)","(0.714, 0.714, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_20260303134925_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_20260303134925_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00001.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00006.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00011.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00015.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00018.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP6,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP6/S82024_eT2W_TSE_DRIVE_HR_20260303134925_602_i00021.nii.gz,"(288, 288, 2)","(0.556, 0.556, 4.4)",train
+SP7,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eeSTIR_TSE_COR_20260305081552_402.nii.gz,"(672, 672, 15)","(0.586, 0.586, 5.641)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00001.nii.gz,"(224, 224, 1)","(0.714, 0.714, 4.0)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00002.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00007.nii.gz,"(224, 224, 5)","(0.714, 0.714, 3.878)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00012.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00016.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00019.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT1W_TSE_CLEAR_20260305081552_702_i00022.nii.gz,"(224, 224, 2)","(0.714, 0.714, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_20260305081552_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_20260305081552_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00001.nii.gz,"(288, 288, 1)","(0.556, 0.556, 4.0)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00002.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00007.nii.gz,"(288, 288, 5)","(0.556, 0.556, 3.878)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00012.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00016.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00019.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_eT2W_TSE_DRIVE_HR_20260305081552_602_i00022.nii.gz,"(288, 288, 2)","(0.556, 0.556, 4.4)",val
+SP7,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_SC_MobiView_eT2W_TSE_20260305081552_305.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.4)",val
+SP7,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP7/S82030_T1W_TSE_sag_20260305081552_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",val
+SP8,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eSTIR_TSE_20260304134706_503.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP8,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eSTIR_TSE_20260304134706_503a.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP8,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eSTIR_TSE_20260304134706_504.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP8,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eSTIR_TSE_20260304134706_504a.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP8,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT1W_TSE_20260304134706_403.nii.gz,"(640, 640, 15)","(0.584, 0.584, 4.4)",train
+SP8,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT1W_TSE_20260304134706_403a.nii.gz,"(640, 640, 15)","(0.584, 0.584, 4.4)",train
+SP8,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT1W_TSE_20260304134706_404.nii.gz,"(560, 560, 15)","(0.672, 0.672, 4.4)",train
+SP8,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT1W_TSE_20260304134706_404a.nii.gz,"(560, 560, 15)","(0.672, 0.672, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_20260304134706_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_20260304134706_303a.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_20260304134706_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_20260304134706_304a.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_DRIVE_HR_20260304134706_602_i00001.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_DRIVE_HR_20260304134706_602_i00001a.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_DRIVE_HR_20260304134706_602_i00006.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP8,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP8/S82032_eT2W_TSE_DRIVE_HR_20260304134706_602_i00006a.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP9,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eSTIR_TSE_20260306090638_503.nii.gz,"(384, 384, 15)","(0.851, 0.851, 4.4)",train
+SP9,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eSTIR_TSE_20260306090638_504.nii.gz,"(400, 400, 15)","(0.833, 0.833, 4.4)",train
+SP9,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT1W_TSE_20260306090638_403.nii.gz,"(512, 512, 15)","(0.635, 0.635, 4.4)",train
+SP9,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT1W_TSE_20260306090638_404.nii.gz,"(512, 512, 15)","(0.645, 0.645, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_20260306090638_303.nii.gz,"(512, 512, 15)","(0.645, 0.645, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_20260306090638_304.nii.gz,"(512, 512, 15)","(0.645, 0.645, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00001.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00004.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00007.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00010.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00013.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_eT2W_TSE_DRIVE_HR_20260306090638_602_i00016.nii.gz,"(288, 288, 2)","(0.556, 0.556, 4.4)",train
+SP9,spine,T1,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_MobiView_eT1W_TSE_20260306090638_405.nii.gz,"(520, 974, 15)","(0.635, 0.635, 4.4)",train
+SP9,spine,STIR,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_SC_MobiView_eSTIR_TSE_20260306090638_505.nii.gz,"(400, 746, 15)","(0.833, 0.833, 4.4)",train
+SP9,spine,T2,False,Spine DATASETS/Spine DATASETS/Normal Spine MRI Datasets/SP9/S82040_SC_MobiView_eT2W_TSE_20260306090638_305.nii.gz,"(512, 963, 15)","(0.645, 0.645, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00001.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00004.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00009.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00013.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00016.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT1W_TSE_CLEAR_20260304103521_802_i00019.nii.gz,"(224, 224, 2)","(0.714, 0.714, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_20260304103521_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_20260304103521_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00001.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00004.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00009.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00013.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00016.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_eT2W_TSE_DRIVE_HR_20260304103521_702_i00019.nii.gz,"(288, 288, 2)","(0.556, 0.556, 4.4)",train
+SP11,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_SC_MobiView_eT2W_TSE_20260304103521_305.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.4)",train
+SP11,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_STIR_TSE_20260304103521_601.nii.gz,"(704, 704, 15)","(0.471, 0.471, 4.4)",train
+SP11,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP11/S82028_T1W_TSE_sag_20260304103521_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00001.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00001a.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00005.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00005a.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00010.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00010a.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00013.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00013a.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00016.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00016a.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00019.nii.gz,"(224, 224, 10)","(0.714, 0.714, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT1W_TSE_CLEAR_20260305090906_802_i00019a.nii.gz,"(224, 224, 10)","(0.714, 0.714, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_20260305090906_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_20260305090906_303a.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_20260305090906_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_20260305090906_304a.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00001.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00001a.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00005.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00005a.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00010.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00010a.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00013.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00013a.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00016.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00016a.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00019.nii.gz,"(288, 288, 10)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_eT2W_TSE_DRIVE_HR_20260305090906_702_i00019a.nii.gz,"(288, 288, 10)","(0.556, 0.556, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_SC_MobiView_eT2W_TSE_20260305090906_305.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_SC_MobiView_eT2W_TSE_20260305090906_305a.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.4)",train
+SP12,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_STIR_TSE_20260305090906_601.nii.gz,"(768, 768, 15)","(0.455, 0.455, 4.4)",train
+SP12,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_STIR_TSE_20260305090906_601a.nii.gz,"(768, 768, 15)","(0.455, 0.455, 4.4)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_T1W_TSE_sag_20260305090906_501.nii.gz,"(448, 448, 16)","(0.789, 0.789, 3.85)",train
+SP12,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP12/S82031_T1W_TSE_sag_20260305090906_501a.nii.gz,"(448, 448, 16)","(0.789, 0.789, 3.85)",train
+SP15,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eSTIR_TSE_20260306093302_503.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP15,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eSTIR_TSE_20260306093302_504.nii.gz,"(432, 432, 15)","(0.865, 0.865, 4.4)",train
+SP15,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT1W_TSE_20260306093302_403.nii.gz,"(576, 576, 15)","(0.643, 0.643, 4.4)",train
+SP15,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT1W_TSE_20260306093302_404.nii.gz,"(560, 560, 15)","(0.672, 0.672, 4.4)",train
+SP15,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT2W_TSE_20260306093302_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP15,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT2W_TSE_20260306093302_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP15,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT2W_TSE_DRIVE_HR_20260306093302_602_i00001.nii.gz,"(256, 256, 10)","(0.586, 0.586, 4.4)",train
+SP15,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_eT2W_TSE_DRIVE_HR_20260306093302_602_i00011.nii.gz,"(256, 256, 6)","(0.586, 0.586, 4.4)",train
+SP15,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_MobiView_eT1W_TSE_20260306093302_405.nii.gz,"(585, 1100, 15)","(0.643, 0.643, 4.398)",train
+SP15,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_SC_MobiView_eSTIR_TSE_20260306093302_505.nii.gz,"(432, 819, 15)","(0.865, 0.865, 4.398)",train
+SP15,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP15/S82041_SC_MobiView_eT2W_TSE_20260306093302_305.nii.gz,"(512, 969, 15)","(0.726, 0.726, 4.398)",train
+SP17,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT1W_TSE_20260221100326_403.nii.gz,"(640, 640, 15)","(0.584, 0.584, 4.4)",train
+SP17,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT1W_TSE_20260221100326_404.nii.gz,"(560, 560, 15)","(0.672, 0.672, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_20260221100326_303.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_20260221100326_304.nii.gz,"(512, 512, 15)","(0.726, 0.726, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_DRIVE_HR_20260221100326_602_i00001.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_DRIVE_HR_20260221100326_602_i00006.nii.gz,"(336, 336, 5)","(0.595, 0.595, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_DRIVE_HR_20260221100326_602_i00011.nii.gz,"(336, 336, 3)","(0.595, 0.595, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_DRIVE_HR_20260221100326_602_i00014.nii.gz,"(336, 336, 3)","(0.595, 0.595, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_eT2W_TSE_DRIVE_HR_20260221100326_602_i00017.nii.gz,"(336, 336, 6)","(0.595, 0.595, 4.4)",train
+SP17,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_MobiView_eT1W_TSE_20260221100326_405.nii.gz,"(643, 1216, 15)","(0.584, 0.584, 4.4)",train
+SP17,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_SC_MobiView_eT2W_TSE_20260221100326_305.nii.gz,"(512, 970, 15)","(0.726, 0.726, 4.4)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_GADO_POST_20260221100326_901_i00001.nii.gz,"(224, 224, 20)","(0.893, 0.893, 4.4)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_GADO_POST_20260221100326_901_i00021.nii.gz,"(224, 224, 20)","(0.893, 0.893, 4.4)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_GADO_PRE_20260221100326_701_i00001.nii.gz,"(224, 224, 20)","(0.893, 0.893, 4.4)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_GADO_PRE_20260221100326_701_i00021.nii.gz,"(224, 224, 20)","(0.893, 0.893, 4.4)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_POST_20260221100326_1001.nii.gz,"(352, 352, 13)","(1.0, 1.0, 5.5)",train
+SP17,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP17/S82170_T1W_TSE_POST_20260221100326_801.nii.gz,"(352, 352, 13)","(1.0, 1.0, 4.4)",train
+SP18,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eSTIR_TSE_20260225155723_602.nii.gz,"(704, 704, 15)","(0.471, 0.471, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00001.nii.gz,"(224, 224, 7)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00008.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00012.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00016.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00020.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_802_i00023.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00001.nii.gz,"(224, 224, 7)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00008.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00012.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00016.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00020.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT1W_TSE_CLEAR_20260225155723_902_i00023.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_CLEAR_20260225155723_402.nii.gz,"(960, 960, 14)","(0.413, 0.413, 3.85)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00001.nii.gz,"(288, 288, 7)","(0.556, 0.556, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00008.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00012.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00016.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00020.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP18,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_eT2W_TSE_DRIVE_HR_20260225155723_702_i00023.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP18,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP18/S82212_T1W_TSE_sag_20260225155723_501.nii.gz,"(512, 512, 14)","(0.789, 0.789, 3.85)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT1W_TSE_CLEAR_20260225151424_702_i00001.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT1W_TSE_CLEAR_20260225151424_702_i00006.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT1W_TSE_CLEAR_20260225151424_702_i00010.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT1W_TSE_CLEAR_20260225151424_702_i00014.nii.gz,"(224, 224, 12)","(0.714, 0.714, 4.4)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT1W_TSE_CLEAR_20260225151424_702_i00026.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_CLEAR_20260225151424_402.nii.gz,"(800, 800, 14)","(0.437, 0.437, 3.85)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_DRIVE_HR_20260225151424_602_i00001.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_DRIVE_HR_20260225151424_602_i00006.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_DRIVE_HR_20260225151424_602_i00010.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_DRIVE_HR_20260225151424_602_i00014.nii.gz,"(288, 288, 12)","(0.556, 0.556, 4.4)",train
+SP19,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_eT2W_TSE_DRIVE_HR_20260225151424_602_i00026.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP19,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP19/S82213_T1W_TSE_sag_20260225151424_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",train
+SP20,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cMULTI_COIL_i00020.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP20,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cMULTI_COIL_i00024.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP20,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cMULTI_COIL_i00028.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.377)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cPOSTERIOR_i00001.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cPOSTERIOR_i00006.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cPOSTERIOR_i00011.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT1W_TSE_CLEAR_20260226161551_702_cPOSTERIOR_i00015.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_20260226161551_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_20260226161551_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cMULTI_COIL_i00020.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cMULTI_COIL_i00024.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cMULTI_COIL_i00028.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.377)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cPOSTERIOR_i00001.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cPOSTERIOR_i00006.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cPOSTERIOR_i00011.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP20,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_eT2W_TSE_DRIVE_HR_20260226161551_602_cPOSTERIOR_i00015.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP20,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_SC_MobiView_eT2W_TSE_20260226161551_305.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.398)",train
+SP20,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP20/S82220_T1W_TSE_sag_20260226161551_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",train
+SP21,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP21/S82230_eT1W_TSE_20260228151908_302.nii.gz,"(704, 704, 19)","(0.562, 0.562, 4.4)",val
+SP21,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP21/S82230_eT1W_TSE_20260228151908_402.nii.gz,"(704, 704, 19)","(0.562, 0.562, 4.4)",val
+SP21,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP21/S82230_T1W_TSE_SPIR_20260228151908_502.nii.gz,"(576, 576, 19)","(0.47, 0.47, 4.4)",val
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00001.nii.gz,"(224, 224, 4)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00005.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00010.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00013.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00016.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_702_i00019.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00001.nii.gz,"(224, 224, 4)","(0.714, 0.714, 8.8)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00006.nii.gz,"(224, 224, 5)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00011.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00014.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00017.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT1W_TSE_CLEAR_20260228094046_902_i00020.nii.gz,"(224, 224, 3)","(0.714, 0.714, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_CLEAR_20260228094046_402.nii.gz,"(800, 800, 14)","(0.437, 0.437, 3.85)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00001.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00005.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00010.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00013.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00016.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_602_i00019.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00001.nii.gz,"(288, 288, 4)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00005.nii.gz,"(288, 288, 5)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00010.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00013.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00016.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_eT2W_TSE_DRIVE_HR_20260228094046_802_i00019.nii.gz,"(288, 288, 3)","(0.556, 0.556, 4.4)",train
+SP22,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP22/S82231_T1W_TSE_sag_20260228094046_501.nii.gz,"(448, 448, 14)","(0.789, 0.789, 3.85)",train
+SP23,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eSTIR_TSE_20260227162946_503.nii.gz,"(432, 432, 12)","(0.865, 0.865, 4.4)",train
+SP23,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eSTIR_TSE_20260227162946_504.nii.gz,"(432, 432, 12)","(0.865, 0.865, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_403.nii.gz,"(576, 576, 12)","(0.643, 0.643, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_404.nii.gz,"(528, 528, 12)","(0.703, 0.703, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_803.nii.gz,"(640, 640, 12)","(0.584, 0.584, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_804.nii.gz,"(528, 528, 12)","(0.703, 0.703, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_903.nii.gz,"(640, 640, 12)","(0.584, 0.584, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT1W_TSE_20260227162946_904.nii.gz,"(528, 528, 12)","(0.703, 0.703, 4.4)",train
+SP23,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT2W_TSE_20260227162946_303.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP23,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_eT2W_TSE_20260227162946_304.nii.gz,"(512, 512, 12)","(0.726, 0.726, 4.4)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_MobiView_eT1W_TSE_20260227162946_405.nii.gz,"(577, 1092, 12)","(0.643, 0.643, 4.398)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_MobiView_eT1W_TSE_20260227162946_805.nii.gz,"(640, 1208, 12)","(0.584, 0.584, 4.398)",train
+SP23,spine,T1,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_MobiView_eT1W_TSE_20260227162946_905.nii.gz,"(640, 1208, 12)","(0.584, 0.584, 4.398)",train
+SP23,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_SC_MobiView_eSTIR_TSE_20260227162946_505.nii.gz,"(432, 819, 12)","(0.865, 0.865, 4.398)",train
+SP23,spine,T2,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_SC_MobiView_eT2W_TSE_20260227162946_305.nii.gz,"(512, 970, 12)","(0.726, 0.726, 4.398)",train
+SP23,spine,T1c,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_T1W_TSE_POST_GADO_20260227162946_902.nii.gz,"(528, 528, 12)","(0.703, 0.703, 4.4)",train
+SP23,spine,STIR,True,Spine DATASETS/Spine DATASETS/Pathological Spine MRI Datasets/SP23/S82232_T1W_TSE_SPIR_20260227162946_1001.nii.gz,"(560, 560, 36)","(0.482, 0.482, 4.9)",train

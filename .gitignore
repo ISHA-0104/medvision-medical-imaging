@@ -1,0 +1,20 @@
+# Large dataset and generated output folders
+Brain_JN_1/
+Brain DATASETS/
+Spine DATASETS/
+preprocessed_HE/
+preprocessed_AHE/
+preprocessed_CLAHE/
+stage2_analysis/
+annotation_visualizations/
+augmented_samples/
+plots/
+tmp/
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
